@@ -55,8 +55,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconsv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
+  ---
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayconsv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  ![snake] (https://raw.githubusercontent.com/Mayconsv/Mayconsv/output/snake-dark.svg)
 </p>
