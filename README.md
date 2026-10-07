@@ -49,16 +49,14 @@
 
 ### 📊 Statistics
 
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mayconsv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayconsv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mayconsv&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=fff&text_color=ccc" height="195" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayconsv&theme=transparent&hide_border=true&stroke=fff&side_labels=true&background=0D1117" height="195" alt="GitHub Streak" />
+  </a>
+</p>
 
 ### 🐍 Commits
 
