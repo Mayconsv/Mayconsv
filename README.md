@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/morcego.gif" width="100" align="right" alt="Morcego animado" />
-</p>
+<div align="right">
+  <img src="assets/morcego.gif" width="90" style="margin-top: -30px;" alt="Morcego animado" />
+</div>
 
 <h1 align="center">Olá, eu sou Maycon 👋</h1>
 
