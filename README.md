@@ -1,6 +1,12 @@
-### Olá, eu sou Maycon 👋
+<p align="center">
+  <img src="assets/morcego.gif" width="120" align="right" alt="Morcego animado" />
+</p>
 
-Estudante de **Ciência da Computação**. Tenho foco no desenvolvimento de uma base sólida em engenharia de software, com ênfase na resolução de problemas, compreensão de sistemas de baixo nível e arquitetura de aplicações.
+<h1 align="center">Olá, eu sou Maycon 👋</h1>
+
+<p align="center">
+  Estudante de <strong>Ciência da Computação</strong>. Foco no desenvolvimento de uma base sólida em engenharia de software, com ênfase na resolução de problemas, compreensão de sistemas de baixo nível e arquitetura de aplicações.
+</p>
 
 ---
 
@@ -19,7 +25,7 @@ Estudante de **Ciência da Computação**. Tenho foco no desenvolvimento de uma 
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Analytics & Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mayconsv&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
@@ -27,4 +33,8 @@ Estudante de **Ciência da Computação**. Tenho foco no desenvolvimento de uma 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconsv&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Utilizadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayconsv&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
