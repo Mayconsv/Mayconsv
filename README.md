@@ -1,4 +1,4 @@
-### Olá, eu sou [Seu Nome] 👋
+### Olá, eu sou Maycon 👋
 
 Estudante de **Ciência da Computação**. Tenho foco no desenvolvimento de uma base sólida em engenharia de software, com ênfase na resolução de problemas, compreensão de sistemas de baixo nível e arquitetura de aplicações.
 
@@ -22,9 +22,9 @@ Estudante de **Ciência da Computação**. Tenho foco no desenvolvimento de uma 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayconsv-AQUI&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayconsv&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconsv-AQUI&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconsv&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Utilizadas" />
 </p>
