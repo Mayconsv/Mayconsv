@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/morcego.gif" width="120" align="right" alt="Morcego animado" />
+  <img src="assets/morcego.gif" width="100" align="right" alt="Morcego animado" />
 </p>
 
 <h1 align="center">Olá, eu sou Maycon 👋</h1>
@@ -25,16 +25,16 @@
 
 ---
 
-### 📊 Analytics & Estatísticas do GitHub
+### 📊 Analytics & Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayconsv&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayconsv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconsv&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconsv&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayconsv&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayconsv&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
