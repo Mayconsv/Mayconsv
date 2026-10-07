@@ -59,7 +59,7 @@
   ---
 </p>
 
-### 🐍 Contribution Snake
+### 🐍 Commits
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mayconsv/Mayconsv/output/snake-dark.svg" alt="Snake Animation" />
