@@ -1,42 +1,41 @@
-<!-- Banner Preto e Branco -->
+<!-- Banner: Certifique-se de que a imagem está na pasta assets e com o nome exato banner.png ou banner.jpg -->
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Banner Minimalista" />
+  <img src="./assets/banner.png" width="100%" style="border-radius: 6px;" alt="Banner Minimalista" />
 </p>
 
-<!-- Links de Redes Sociais / Contato -->
+<!-- Redes Sociais no Estilo Minimalista -->
 <p align="center">
   <a href="https://github.com/Mayconsv">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/maycon-santana-78229a39a">
+  <a href="https://linkedin.com/in/seu-usuario">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🥷 About Me
 
-<table width="100%">
+<table width="100%" style="border: none;">
   <tr>
-    <td width="65%" valign="top">
-      <p>Olá! Sou Maycon, estudante de <strong>Ciência da Computação</strong>.</p>
+    <td width="70%" valign="top" style="border: none;">
+      <p>Olá! Sou <strong>Maycon</strong>, estudante de <strong>Ciência da Computação</strong>.</p>
       <p>Foco no desenvolvimento de uma base sólida em engenharia de software, com ênfase na resolução de problemas lógicos, compreensão de sistemas de baixo nível e arquitetura de aplicações.</p>
       <ul>
         <li>📚 Cursando Ciência da Computação</li>
         <li>🎯 Foco em Algoritmos, Estruturas de Dados e Compiladores</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="top">
-      <!-- Morcego animado simulando a estética da referência -->
-      <img src="assets/morcego.gif" width="130" alt="Morcego animado" />
+    <td width="30%" align="center" valign="middle" style="border: none;">
+      <img src="./assets/morcego.gif" width="120" alt="Morcego animado" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Technologies
+### ⚡ Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -48,10 +47,10 @@
 
 ---
 
-### 📊 Statistics
+### 📈 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayconsv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayconsv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
