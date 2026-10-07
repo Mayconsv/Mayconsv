@@ -55,6 +55,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Mayconsv&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%" valign="top">
+      <br>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayconsv&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
