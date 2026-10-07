@@ -55,10 +55,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconsv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  
+
   ---
 </p>
 
+### 🐍 Contribution Snake
+
 <p align="center">
-  ![snake] (https://raw.githubusercontent.com/Mayconsv/Mayconsv/output/snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/Mayconsv/Mayconsv/output/snake-dark.svg" alt="Snake Animation" />
 </p>
