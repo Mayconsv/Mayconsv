@@ -51,7 +51,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Mayconsv&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=0000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=Mayconsv&show_icons=true&theme=transparent&bg_color=0000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d&hide_border=false"
     height="195"
     alt="GitHub Stats"
   />
@@ -62,6 +62,8 @@
     alt="GitHub Streak"
   />
 </p>
+
+---
 
 ### 🐍 Commits
 
