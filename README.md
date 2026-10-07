@@ -47,20 +47,15 @@
 
 ---
 
-## 📊 Statistics
+### 📊 Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mayconsv&show_icons=true&theme=transparent&bg_color=0000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d&hide_border=false"
-    height="195"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.demolab.com/?user=Mayconsv&theme=transparent&hide_border=false&background=0000&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"
-    height="195"
-    alt="GitHub Streak"
-  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mayconsv&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=fff&text_color=ccc" height="195" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayconsv&theme=transparent&hide_border=true&stroke=fff&side_labels=true&background=0D1117" height="195" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
