@@ -50,12 +50,8 @@
 ### 📊 Statistics
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mayconsv&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=fff&text_color=ccc" height="195" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayconsv&theme=transparent&hide_border=true&stroke=fff&side_labels=true&background=0D1117" height="195" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayconsv&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayconsv&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
