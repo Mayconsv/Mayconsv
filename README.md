@@ -8,7 +8,7 @@
   <a href="https://github.com/Mayconsv">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/seu-usuario">
+  <a href="https://linkedin.com/in/maycon-santana-78229a39a">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -47,17 +47,18 @@
 
 ---
 
-### 📈 Statistics
+### 📊 Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayconsv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconsv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-  ---
-</p>
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mayconsv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayconsv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ### 🐍 Commits
 
